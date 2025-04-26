@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanketPawar21
-- 👀 I’m interested in java Programming and Web Development 
-- 🌱 I’m currently learning Spring boot
+- 👀 I’m interested in java Programming and App Development 
+- 🌱 I’m currently learning Technologies In App Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sanketpawar1979@gmail.com, +91 7841971983
 
